@@ -15,5 +15,8 @@ Functional profiling - KEGG orthology
 ## Data
 The dataset consists of 27 Samples (A1_S26, 1a_S15, A2_S27, 1b_S22, B1_S21 2a_S8, B2_S28, 2b_S16, C1_S4, 4a_S23, C2_S5, 4b_S1, D1_S6, 5a_S18, D2_S7 5b_S2, Ia_S12, 6a_S3, Ib_S13, 6b_S10, IIa_S24, 7a_S19, IIb_S14, 7b_S11, IIIa_S20, 3a_S9, 3b_S17
 
+## Result summary
+The study identifies sample specific microbial taxa, statistical analysis for the top most phyla, genus and species based on relative abundance, diversity analysis of alpha and beta analysis, functional metagenomics.
+
 ## Author
 Komala Devi S
