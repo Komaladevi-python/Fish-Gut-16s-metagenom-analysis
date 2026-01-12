@@ -1,7 +1,7 @@
 
 
 # Fish-Gut-16s-metagenome-analysis
-16S metagenome analysis of a total 27 fish gut samples including QC, assembly, Data Denoising, OTU Clustering, taxonomical classification,Statistical analysis, Diversity analysis and Functional profiling
+16S metagenome analysis of a total 27 fish gut samples including QC, Data Denoising, OTU Clustering, taxonomical classification, Statistical analysis, Diversity analysis and Functional profiling
 
 ## Work flow and Tools used
 Quality Check - Fastp
